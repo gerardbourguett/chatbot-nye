@@ -1,0 +1,1591 @@
+{
+  "Afganistan": {
+    "name": "afganistan",
+    "ciudad": "Kabul",
+    "utc": "+04:30",
+    "horaChile": "16:30"
+  },
+  "Albania": {
+    "name": "albania",
+    "ciudad": "Tirana",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Alemania": {
+    "name": "alemania",
+    "ciudad": "Berlín",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Andorra": {
+    "name": "andorra",
+    "ciudad": "Andorra la Vieja",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Angola": {
+    "name": "angola",
+    "ciudad": "Luanda",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Anguila": {
+    "name": "anguila",
+    "ciudad": "The Valley",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Antigua y Barbuda": {
+    "name": "antigua y barbuda",
+    "ciudad": "Saint John's",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Arabia Saudita": {
+    "name": "arabia saudita",
+    "ciudad": "Riad",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Argelia": {
+    "name": "argelia",
+    "ciudad": "Argel",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Argentina": {
+    "name": "argentina",
+    "ciudad": "Buenos Aires",
+    "utc": "-03:00",
+    "horaChile": "00:00"
+  },
+  "Armenia": {
+    "name": "armenia",
+    "ciudad": "Ereván",
+    "utc": "+04:00",
+    "horaChile": "17:00"
+  },
+  "Aruba": {
+    "name": "aruba",
+    "ciudad": "Oranjestad",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Australia": [
+    {
+      "name": "australia",
+      "ciudad": "Isla Norfolk",
+      "utc": "+12:00",
+      "horaChile": "09:00"
+    },
+    {
+      "name": "australia",
+      "ciudad": "Sydney, Melbourne",
+      "utc": "+11:00",
+      "horaChile": "10:00"
+    },
+    {
+      "name": "australia",
+      "ciudad": "Brisbane",
+      "utc": "+10:00",
+      "horaChile": "11:00"
+    },
+    {
+      "name": "australia",
+      "ciudad": "Broken Hill, Adelaide",
+      "utc": "+10:30",
+      "horaChile": "10:30"
+    },
+    {
+      "name": "australia",
+      "ciudad": "Darwin",
+      "utc": "+09:30",
+      "horaChile": "11:30"
+    },
+    {
+      "name": "australia",
+      "ciudad": "Perth",
+      "utc": "+08:00",
+      "horaChile": "13:00"
+    },
+    {
+      "name": "australia",
+      "ciudad": "Eucla",
+      "utc": "+08:45",
+      "horaChile": "12:15"
+    },
+    {
+      "name": "australia",
+      "ciudad": "Isla de Navidad",
+      "utc": "+07:00",
+      "horaChile": "14:00"
+    },
+    {
+      "ciudad": "Isla Cocos",
+      "utc": "+06:30",
+      "horaChile": "14:30"
+    }
+  ],
+  "Austria": {
+    "ciudad": "Viena",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Azerbaiyán": {
+    "ciudad": "Bakú",
+    "utc": "+04:00",
+    "horaChile": "17:00"
+  },
+  "Bahamas": {
+    "ciudad": "Nasáu",
+    "utc": "-05:00",
+    "horaChile": "02:00"
+  },
+  "Bangladesh": {
+    "ciudad": "Daca",
+    "utc": "+06:00",
+    "horaChile": "15:00"
+  },
+  "Barbados": {
+    "ciudad": "Bridgetown",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Baréin": {
+    "ciudad": "Manama",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Bélgica": {
+    "ciudad": "Bruselas",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Belice": {
+    "ciudad": "Belmopán",
+    "utc": "-06:00",
+    "horaChile": "03:00"
+  },
+  "Benín": {
+    "ciudad": "Porto Novo",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Bhutan": {
+    "ciudad": "Timbu",
+    "utc": "+06:00",
+    "horaChile": "15:00"
+  },
+  "Bielorrusia": {
+    "ciudad": "Minsk",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Birmania": {
+    "ciudad": "Naipyidó",
+    "utc": "+06:30",
+    "horaChile": "14:30"
+  },
+  "Bolivia": {
+    "ciudad": "Sucre",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Bosnia y Herzegovina": {
+    "ciudad": "Sarajevo",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Botswana": {
+    "ciudad": "Gaborone",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Brasil": [
+    {
+      "ciudad": "Fernando de Noronha",
+      "utc": "-02:00",
+      "horaChile": "23:00"
+    },
+    {
+      "ciudad": "Brasilia, Río de Janeiro, São Paulo",
+      "utc": "-03:00",
+      "horaChile": "00:00"
+    },
+    {
+      "ciudad": "Amazonas",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "Acre, Río Branco",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    }
+  ],
+  "Brunei Darussalam": {
+    "ciudad": "Bandar Seri Begawan",
+    "utc": "+08:00",
+    "horaChile": "13:00"
+  },
+  "Bulgaria": {
+    "ciudad": "Sofía",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Burkina Faso": {
+    "ciudad": "Uagadugú",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Burundi": {
+    "ciudad": "Gitega",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Cabo Verde": {
+    "ciudad": "Praia",
+    "utc": "-01:00",
+    "horaChile": "22:00"
+  },
+  "Camboya": {
+    "ciudad": "Nom Pen",
+    "utc": "+07:00",
+    "horaChile": "14:00"
+  },
+  "Camerún": {
+    "ciudad": "Yaundé",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Canadá": [
+    {
+      "ciudad": "Terranova y Labrador",
+      "utc": "-03:30",
+      "horaChile": "00:30"
+    },
+    {
+      "ciudad": "Nueva Escocia",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "Winnipeg",
+      "utc": "-06:00",
+      "horaChile": "03:00"
+    },
+    {
+      "ciudad": "Edmonton",
+      "utc": "-07:00",
+      "horaChile": "04:00"
+    },
+    {
+      "ciudad": "Vancouver",
+      "utc": "-08:00",
+      "horaChile": "05:00"
+    }
+  ],
+  "Qatar": {
+    "ciudad": "Doha",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "República Centroafricana": {
+    "ciudad": "Bangui",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Chad": {
+    "ciudad": "Yamena",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "República Checa": {
+    "ciudad": "Praga",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Chile": [
+    {
+      "ciudad": "Santiago",
+      "utc": "-03:00",
+      "horaChile": "00:00"
+    },
+    {
+      "ciudad": "Isla de Pascua",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    }
+  ],
+  "China": [
+    {
+      "ciudad": "Pekín",
+      "utc": "+08:00",
+      "horaChile": "13:00"
+    },
+    {
+      "ciudad": "Hong Kon",
+      "utc": "+08:00",
+      "horaChile": "13:00"
+    },
+    {
+      "ciudad": "Macao",
+      "utc": "+08:00",
+      "horaChile": "13:00"
+    }
+  ],
+  "Chipre": {
+    "ciudad": "Nicosia",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Colombia": {
+    "ciudad": "Bogotá",
+    "utc": "-05:00",
+    "horaChile": "02:00"
+  },
+  "Comoras": {
+    "ciudad": "Moroni",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Congo": {
+    "ciudad": "Brazzaville",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "República Democrática del Congo": [
+    {
+      "ciudad": "Kinshasa",
+      "utc": "+01:00",
+      "horaChile": "20:00"
+    },
+    {
+      "ciudad": "Lubumbashi",
+      "utc": "+02:00",
+      "horaChile": "19:00"
+    }
+  ],
+  "Corea del Norte": {
+    "ciudad": "Pionyang",
+    "utc": "+09:00",
+    "horaChile": "12:00"
+  },
+  "Corea del Sur": {
+    "ciudad": "Seúl",
+    "utc": "+09:00",
+    "horaChile": "12:00"
+  },
+  "Costa de Marfil": {
+    "ciudad": "Yamoussoukro",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Costa Rica": {
+    "ciudad": "San José",
+    "utc": "-06:00",
+    "horaChile": "03:00"
+  },
+  "Croacia": {
+    "ciudad": "Zagreb",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Cuba": {
+    "ciudad": "La Habana",
+    "utc": "-05:00",
+    "horaChile": "02:00"
+  },
+  "Dinamarca": [
+    {
+      "ciudad": "Copenhague",
+      "utc": "+01:00",
+      "horaChile": "20:00"
+    },
+    {
+      "ciudad": "Danmarkshavn",
+      "utc": "00:00",
+      "horaChile": "21:00"
+    },
+    {
+      "ciudad": "Nuuk, Ittoqqortoormiit",
+      "utc": "-02:00",
+      "horaChile": "23:00"
+    }
+  ],
+  "Dominica": {
+    "ciudad": "Roseau",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Ecuador": [
+    {
+      "ciudad": "Quito",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    },
+    {
+      "ciudad": "Galápagos",
+      "utc": "-06:00",
+      "horaChile": "03:00"
+    }
+  ],
+  "Egipto": {
+    "ciudad": "El Cairo",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "El Salvador": {
+    "ciudad": "San Salvador",
+    "utc": "-06:00",
+    "horaChile": "03:00"
+  },
+  "Emiratos Árabes Unidos": {
+    "ciudad": "Abu Dabi",
+    "utc": "+04:00",
+    "horaChile": "17:00"
+  },
+  "Eritrea": {
+    "ciudad": "Asmara",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Eslovaquia": {
+    "ciudad": "Bratislava",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Eslovenia": {
+    "ciudad": "Liubliana",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "España": [
+    {
+      "ciudad": "Madrid",
+      "utc": "+01:00",
+      "horaChile": "20:00"
+    },
+    {
+      "ciudad": "Canarias",
+      "utc": "+00:00",
+      "horaChile": "21:00"
+    },
+    {
+      "ciudad": "Ceuta, Melilla",
+      "utc": "+01:00",
+      "horaChile": "20:00"
+    }
+  ],
+  "Estados Unidos": [
+    {
+      "ciudad": "Nueva York",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    },
+    {
+      "ciudad": "Los Ángeles",
+      "utc": "-08:00",
+      "horaChile": "05:00"
+    },
+    {
+      "ciudad": "Chicago",
+      "utc": "-06:00",
+      "horaChile": "03:00"
+    },
+    {
+      "ciudad": "Houston",
+      "utc": "-06:00",
+      "horaChile": "03:00"
+    },
+    {
+      "ciudad": "Phoenix",
+      "utc": "-07:00",
+      "horaChile": "04:00"
+    },
+    {
+      "ciudad": "Indianápolis",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    },
+    {
+      "ciudad": "Denver",
+      "utc": "-07:00",
+      "horaChile": "04:00"
+    },
+    {
+      "ciudad": "Filadelfia",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    },
+    {
+      "ciudad": "Miami",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    },
+    {
+      "ciudad": "Atlanta",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    },
+    {
+      "ciudad": "San Francisco",
+      "utc": "-08:00",
+      "horaChile": "05:00"
+    },
+    {
+      "ciudad": "Alaska",
+      "utc": "-09:00",
+      "horaChile": "06:00"
+    },
+    {
+      "ciudad": "Hawái",
+      "utc": "-10:00",
+      "horaChile": "07:00"
+    }
+  ],
+  "Estonia": {
+    "ciudad": "Tallin",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Etiopía": {
+    "ciudad": "Adís Abeba",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Filipinas": {
+    "ciudad": "Manila",
+    "utc": "+08:00",
+    "horaChile": "13:00"
+  },
+  "Finlandia": {
+    "ciudad": "Helsinki",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Fiyi": {
+    "ciudad": "Suva",
+    "utc": "+12:00",
+    "horaChile": "09:00"
+  },
+  "Francia": [
+    {
+      "ciudad": "París",
+      "utc": "+01:00",
+      "horaChile": "20:00"
+    },
+    {
+      "ciudad": "Martinica",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "Guadalupe",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "Guayana Francesa",
+      "utc": "-03:00",
+      "horaChile": "00:00"
+    },
+    {
+      "ciudad": "San Bartolomé",
+      "utc": "-03:00",
+      "horaChile": "00:00"
+    },
+    {
+      "ciudad": "San Martín",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "San Pedro y Miquelón",
+      "utc": "-03:00",
+      "horaChile": "00:00"
+    }
+  ],
+  "Gabón": {
+    "ciudad": "Libreville",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Gambia": {
+    "ciudad": "Banjul",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Georgia": {
+    "ciudad": "Tiflis",
+    "utc": "+04:00",
+    "horaChile": "17:00"
+  },
+  "Ghana": {
+    "ciudad": "Acra",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Gibraltar": {
+    "ciudad": "Gibraltar",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Granada": {
+    "ciudad": "Saint George's",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Grecia": {
+    "ciudad": "Atenas",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Groenlandia": [
+    {
+      "ciudad": "Nuuk",
+      "utc": "-03:00",
+      "horaChile": "00:00"
+    },
+    {
+      "ciudad": "Danmarkshavn",
+      "utc": "00:00",
+      "horaChile": "21:00"
+    },
+    {
+      "ciudad": "Ittoqqortoormiit",
+      "utc": "-01:00",
+      "horaChile": "22:00"
+    }
+  ],
+  "Guatemala": {
+    "ciudad": "Ciudad de Guatemala",
+    "utc": "-06:00",
+    "horaChile": "03:00"
+  },
+  "Guayana Francesa": {
+    "ciudad": "Cayena",
+    "utc": "-03:00",
+    "horaChile": "00:00"
+  },
+  "Guinea": {
+    "ciudad": "Conakri",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Guinea Bissau": {
+    "ciudad": "Bisáu",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Guinea Ecuatorial": {
+    "ciudad": "Malabo",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Guyana": {
+    "ciudad": "Georgetown",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Haiti": {
+    "ciudad": "Puerto Príncipe",
+    "utc": "-05:00",
+    "horaChile": "02:00"
+  },
+  "Honduras": {
+    "ciudad": "Tegucigalpa",
+    "utc": "-06:00",
+    "horaChile": "03:00"
+  },
+  "Hungría": {
+    "ciudad": "Budapest",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "India": {
+    "ciudad": "Nueva Delhi",
+    "utc": "+05:30",
+    "horaChile": "15:30"
+  },
+  "Indonesia": [
+    {
+      "ciudad": "Yakarta",
+      "utc": "+07:00",
+      "horaChile": "14:00"
+    },
+    {
+      "ciudad": "Jayapura",
+      "utc": "+09:00",
+      "horaChile": "12:00"
+    }
+  ],
+  "Irak": {
+    "ciudad": "Bagdad",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Irán": {
+    "ciudad": "Teherán",
+    "utc": "+03:30",
+    "horaChile": "17:30"
+  },
+  "Irlanda": {
+    "ciudad": "Dublín",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Islandia": {
+    "ciudad": "Reikiavik",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Israel": {
+    "ciudad": "Jerusalén",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Italia": {
+    "ciudad": "Roma",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Jamaica": {
+    "ciudad": "Kingston",
+    "utc": "-05:00",
+    "horaChile": "02:00"
+  },
+  "Japón": {
+    "ciudad": "Tokio",
+    "utc": "+09:00",
+    "horaChile": "12:00"
+  },
+  "Jordania": {
+    "ciudad": "Amán",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Kazajistán": {
+    "ciudad": "Astaná",
+    "utc": "+06:00",
+    "horaChile": "15:00"
+  },
+  "Kenia": {
+    "ciudad": "Nairobi",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Kirguistán": {
+    "ciudad": "Biskek",
+    "utc": "+06:00",
+    "horaChile": "15:00"
+  },
+  "Kiribati": [
+    {
+      "ciudad": "Tarawa",
+      "utc": "+12:00",
+      "horaChile": "09:00"
+    },
+    {
+      "ciudad": "Islas Fénix",
+      "utc": "+13:00",
+      "horaChile": "08:00"
+    },
+    {
+      "ciudad": "Kiritimati",
+      "utc": "+14:00",
+      "horaChile": "07:00"
+    }
+  ],
+  "Kuwait": {
+    "ciudad": "Kuwait",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Laos": {
+    "ciudad": "Vientián",
+    "utc": "+07:00",
+    "horaChile": "14:00"
+  },
+  "Lesoto": {
+    "ciudad": "Maseru",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Letonia": {
+    "ciudad": "Riga",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Líbano": {
+    "ciudad": "Beirut",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Liberia": {
+    "ciudad": "Monrovia",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Libia": {
+    "ciudad": "Trípoli",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Liechtenstein": {
+    "ciudad": "Vaduz",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Lituania": {
+    "ciudad": "Vilna",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Luxemburgo": {
+    "ciudad": "Luxemburgo",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Macedonia": {
+    "ciudad": "Skopie",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Madagascar": {
+    "ciudad": "Antananarivo",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Malasia": {
+    "ciudad": "Kuala Lumpur",
+    "utc": "+08:00",
+    "horaChile": "13:00"
+  },
+  "Malaui": {
+    "ciudad": "Lilongüe",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Maldivas": {
+    "ciudad": "Male",
+    "utc": "+05:00",
+    "horaChile": "16:00"
+  },
+  "Mali": {
+    "ciudad": "Bamako",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Malta": {
+    "ciudad": "La Valeta",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Marruecos": {
+    "ciudad": "Rabat",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Islas Marshall": {
+    "ciudad": "Majuro",
+    "utc": "+12:00",
+    "horaChile": "09:00"
+  },
+  "Martinica": {
+    "ciudad": "Fort-de-France",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Mauricio": {
+    "ciudad": "Port Louis",
+    "utc": "+04:00",
+    "horaChile": "17:00"
+  },
+  "Mauritania": {
+    "ciudad": "Nuakchot",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Mayotte": {
+    "ciudad": "Mamoudzou",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "México": [
+    {
+      "ciudad": "Chetumal",
+      "utc": "-05:00",
+      "horaChile": "02:00"
+    },
+    {
+      "ciudad": "México D.F.",
+      "utc": "-06:00",
+      "horaChile": "03:00"
+    },
+    {
+      "ciudad": "Sinaloa",
+      "utc": "-07:00",
+      "horaChile": "04:00"
+    },
+    {
+      "ciudad": "Tijuana",
+      "utc": "-08:00",
+      "horaChile": "05:00"
+    }
+  ],
+  "Micronesia": {
+    "ciudad": "Palikir",
+    "utc": "+11:00",
+    "horaChile": "10:00"
+  },
+  "Moldavia": {
+    "ciudad": "Chisináu",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Mónaco": {
+    "ciudad": "Mónaco",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Mongolia": [
+    {
+      "ciudad": "Ulaanbaatar",
+      "utc": "+08:00",
+      "horaChile": "13:00"
+    },
+    {
+      "ciudad": "Hovd",
+      "utc": "+07:00",
+      "horaChile": "14:00"
+    }
+  ],
+  "Montenegro": {
+    "ciudad": "Podgorica",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Montserrat": {
+    "ciudad": "Plymouth",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Mozambique": {
+    "ciudad": "Maputo",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Namibia": {
+    "ciudad": "Windhoek",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Nauru": {
+    "ciudad": "Yaren",
+    "utc": "+12:00",
+    "horaChile": "09:00"
+  },
+  "Nepal": {
+    "ciudad": "Katmandú",
+    "utc": "+05:45",
+    "horaChile": "15:15"
+  },
+  "Nicaragua": {
+    "ciudad": "Managua",
+    "utc": "-06:00",
+    "horaChile": "03:00"
+  },
+  "Níger": {
+    "ciudad": "Niamey",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Noruega": {
+    "ciudad": "Oslo",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Nueva Caledonia": {
+    "ciudad": "Numea",
+    "utc": "+11:00",
+    "horaChile": "10:00"
+  },
+  "Nueva Zelanda": [
+    {
+      "ciudad": "Auckland",
+      "utc": "+13:00",
+      "horaChile": "08:00"
+    },
+    {
+      "ciudad": "Chatham",
+      "utc": "+12:45",
+      "horaChile": "08:15"
+    }
+  ],
+  "Omán": {
+    "ciudad": "Mascate",
+    "utc": "+04:00",
+    "horaChile": "17:00"
+  },
+  "Países Bajos": [
+    {
+      "ciudad": "Ámsterdam",
+      "utc": "+01:00",
+      "horaChile": "20:00"
+    },
+    {
+      "ciudad": "Willemstad",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "Kralendijk",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "Oranjestad",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    },
+    {
+      "ciudad": "Philipsburg",
+      "utc": "-04:00",
+      "horaChile": "01:00"
+    }
+  ],
+  "Pakistán": {
+    "ciudad": "Islamabad",
+    "utc": "+05:00",
+    "horaChile": "15:00"
+  },
+  "Palestina": {
+    "ciudad": "Jerusalén",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Palaos": {
+    "ciudad": "Ngerulmud",
+    "utc": "+09:00",
+    "horaChile": "12:00"
+  },
+  "Panamá": {
+    "ciudad": "Panamá",
+    "utc": "-05:00",
+    "horaChile": "02:00"
+  },
+  "Papúa Nueva Guinea": [
+    {
+      "ciudad": "Port Moresby",
+      "utc": "+10:00",
+      "horaChile": "11:00"
+    },
+    {
+      "ciudad": "Bougainville",
+      "utc": "+11:00",
+      "horaChile": "10:00"
+    }
+  ],
+  "Paraguay": {
+    "ciudad": "Asunción",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Perú": {
+    "ciudad": "Lima",
+    "utc": "-05:00",
+    "horaChile": "02:00"
+  },
+  "Polonia": {
+    "ciudad": "Varsovia",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Portugal": [
+    {
+      "ciudad": "Lisboa",
+      "utc": "+00:00",
+      "horaChile": "21:00"
+    },
+    {
+      "ciudad": "Madeira",
+      "utc": "+00:00",
+      "horaChile": "21:00"
+    },
+    {
+      "ciudad": "Azores",
+      "utc": "-01:00",
+      "horaChile": "22:00"
+    }
+  ],
+  "Puerto Rico": {
+    "ciudad": "San Juan",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Reino Unido": [
+    {
+      "ciudad": "Londres",
+      "utc": "+00:00",
+      "horaChile": "21:00"
+    },
+    {
+      "ciudad": "Belfast",
+      "utc": "+00:00",
+      "horaChile": "21:00"
+    },
+    {
+      "ciudad": "Gibraltar",
+      "utc": "+01:00",
+      "horaChile": "20:00"
+    },
+    {
+      "ciudad": "San Helena",
+      "utc": "+00:00",
+      "horaChile": "21:00"
+    }
+  ],
+  "Rusia": [
+    {
+      "ciudad": "Moscú",
+      "utc": "+03:00",
+      "horaChile": "18:00"
+    },
+    {
+      "ciudad": "San Petersburgo",
+      "utc": "+03:00",
+      "horaChile": "18:00"
+    },
+    {
+      "ciudad": "Kaliningrado",
+      "utc": "+02:00",
+      "horaChile": "19:00"
+    },
+    {
+      "ciudad": "Samara",
+      "utc": "+04:00",
+      "horaChile": "17:00"
+    },
+    {
+      "ciudad": "Ekaterimburgo",
+      "utc": "+05:00",
+      "horaChile": "16:00"
+    },
+    {
+      "ciudad": "Omsk",
+      "utc": "+06:00",
+      "horaChile": "15:00"
+    },
+    {
+      "ciudad": "Novosibirsk",
+      "utc": "+07:00",
+      "horaChile": "14:00"
+    },
+    {
+      "ciudad": "Krasnoyarsk",
+      "utc": "+08:00",
+      "horaChile": "13:00"
+    },
+    {
+      "ciudad": "Irkutsk",
+      "utc": "+09:00",
+      "horaChile": "12:00"
+    },
+    {
+      "ciudad": "Yakutsk",
+      "utc": "+10:00",
+      "horaChile": "11:00"
+    },
+    {
+      "ciudad": "Vladivostok",
+      "utc": "+11:00",
+      "horaChile": "10:00"
+    },
+    {
+      "ciudad": "Sajalín",
+      "utc": "+11:00",
+      "horaChile": "10:00"
+    },
+    {
+      "ciudad": "Magadán",
+      "utc": "+12:00",
+      "horaChile": "09:00"
+    },
+    {
+      "ciudad": "Kamchatka",
+      "utc": "+12:00",
+      "horaChile": "09:00"
+    },
+    {
+      "ciudad": "Anadyr",
+      "utc": "+12:00",
+      "horaChile": "09:00"
+    },
+    {
+      "ciudad": "Chukotka",
+      "utc": "+12:00",
+      "horaChile": "09:00"
+    }
+  ],
+  "Ruanda": {
+    "ciudad": "Kigali",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Rumania": {
+    "ciudad": "Bucarest",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Islas Salomón": {
+    "ciudad": "Honiara",
+    "utc": "+11:00",
+    "horaChile": "10:00"
+  },
+  "Samoa": {
+    "ciudad": "Apia",
+    "utc": "+13:00",
+    "horaChile": "08:00"
+  },
+  "San Cristóbal y Nieves": {
+    "ciudad": "Basseterre",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "San Vicente y las Granadinas": {
+    "ciudad": "Kingstown",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "San Marino": {
+    "ciudad": "San Marino",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Santa Lucía": {
+    "ciudad": "Castries",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Santo Tomé y Príncipe": {
+    "ciudad": "Santo Tomé",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Senegal": {
+    "ciudad": "Dakar",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Serbia": {
+    "ciudad": "Belgrado",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Seychelles": {
+    "ciudad": "Victoria",
+    "utc": "+04:00",
+    "horaChile": "17:00"
+  },
+  "Sierra Leona": {
+    "ciudad": "Freetown",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Singapur": {
+    "ciudad": "Singapur",
+    "utc": "+08:00",
+    "horaChile": "13:00"
+  },
+  "Sint Maarten": {
+    "ciudad": "Philipsburg",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Siria": {
+    "ciudad": "Damasco",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Somalia": {
+    "ciudad": "Mogadiscio",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Sri Lanka": {
+    "ciudad": "Colombo",
+    "utc": "+05:30",
+    "horaChile": "15:00"
+  },
+  "eSwatini": {
+    "ciudad": "Mbabane",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Suecia": {
+    "ciudad": "Estocolmo",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Sudáfrica": {
+    "ciudad": "Pretoria",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Sudán": {
+    "ciudad": "Jartum",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Sudán del Sur": {
+    "ciudad": "Yuba",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Suiza": {
+    "ciudad": "Berna",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Surinam": {
+    "ciudad": "Paramaribo",
+    "utc": "-03:00",
+    "horaChile": "00:00"
+  },
+  "Tailandia": {
+    "ciudad": "Bangkok",
+    "utc": "+07:00",
+    "horaChile": "14:00"
+  },
+  "Tanzania": {
+    "ciudad": "Dodoma",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Tayikistán": {
+    "ciudad": "Dusambé",
+    "utc": "+05:00",
+    "horaChile": "15:00"
+  },
+  "Timor Oriental": {
+    "ciudad": "Dili",
+    "utc": "+09:00",
+    "horaChile": "12:00"
+  },
+  "Togo": {
+    "ciudad": "Lomé",
+    "utc": "00:00",
+    "horaChile": "21:00"
+  },
+  "Tonga": {
+    "ciudad": "Nukualofa",
+    "utc": "+13:00",
+    "horaChile": "08:00"
+  },
+  "Trinidad y Tobago": {
+    "ciudad": "Puerto España",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Túnez": {
+    "ciudad": "Túnez",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Turkmenistán": {
+    "ciudad": "Asjabad",
+    "utc": "+05:00",
+    "horaChile": "16:00"
+  },
+  "Turquía": {
+    "ciudad": "Ankara",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Tuvalu": {
+    "ciudad": "Funafuti",
+    "utc": "+12:00",
+    "horaChile": "09:00"
+  },
+  "Uganda": {
+    "ciudad": "Kampala",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Ucrania": {
+    "ciudad": "Kiev",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Uruguay": {
+    "ciudad": "Montevideo",
+    "utc": "-03:00",
+    "horaChile": "00:00"
+  },
+  "Uzbekistán": {
+    "ciudad": "Taskent",
+    "utc": "+05:00",
+    "horaChile": "16:00"
+  },
+  "Vanuatu": {
+    "ciudad": "Port Vila",
+    "utc": "+11:00",
+    "horaChile": "10:00"
+  },
+  "Venezuela": {
+    "ciudad": "Caracas",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Ciudad del Vaticano": {
+    "ciudad": "Ciudad del Vaticano",
+    "utc": "+01:00",
+    "horaChile": "20:00"
+  },
+  "Vietnam": {
+    "ciudad": "Hanói",
+    "utc": "+07:00",
+    "horaChile": "14:00"
+  },
+  "Yemen": {
+    "ciudad": "Saná",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Yibuti": {
+    "ciudad": "Yibuti",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Zambia": {
+    "ciudad": "Lusaka",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Zimbabue": {
+    "ciudad": "Harare",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Islas Cook": {
+    "ciudad": "Avarua",
+    "utc": "-10:00",
+    "horaChile": "07:00"
+  },
+  "Curaçao": {
+    "ciudad": "Willemstad",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Islas Faroe": {
+    "ciudad": "Tórshavn",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Islas Marianas del Norte": {
+    "ciudad": "Saipán",
+    "utc": "+10:00",
+    "horaChile": "11:00"
+  },
+  "Niue": {
+    "ciudad": "Alofi",
+    "utc": "-11:00",
+    "horaChile": "06:00"
+  },
+  "San Martin": {
+    "ciudad": "Marigot",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Sahara Occidental": {
+    "ciudad": "El Aaiún",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Bermudas": {
+    "ciudad": "Hamilton",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Guam": {
+    "ciudad": "Hagåtña",
+    "utc": "+10:00",
+    "horaChile": "11:00"
+  },
+  "Islas Malvinas": {
+    "ciudad": "Stanley",
+    "utc": "-03:00",
+    "horaChile": "00:00"
+  },
+  "Islas Pitcairn": {
+    "ciudad": "Adamstown",
+    "utc": "-08:00",
+    "horaChile": "05:00"
+  },
+  "Polinesia Francesa": {
+    "ciudad": "Papeete",
+    "utc": "-10:00",
+    "horaChile": "07:00"
+  },
+  "Samoa Americana": {
+    "ciudad": "Pago Pago",
+    "utc": "-11:00",
+    "horaChile": "06:00"
+  },
+  "Turks y Caicos": {
+    "ciudad": "Cockburn Town",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Tristan da Cunha": {
+    "ciudad": "Edimburgo de los Siete Mares",
+    "utc": "+00:00",
+    "horaChile": "21:00"
+  },
+  "Tokelau": {
+    "ciudad": "Fakaofo",
+    "utc": "+13:00",
+    "horaChile": "08:00"
+  },
+  "Islas Vírgenes Británicas": {
+    "ciudad": "Road Town",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Islas Vírgenes de los Estados Unidos": {
+    "ciudad": "Charlotte Amalie",
+    "utc": "-04:00",
+    "horaChile": "01:00"
+  },
+  "Taiwán": {
+    "ciudad": "Taipéi",
+    "utc": "+08:00",
+    "horaChile": "13:00"
+  },
+  "Somalilandia": {
+    "ciudad": "Hargeisa",
+    "utc": "+03:00",
+    "horaChile": "18:00"
+  },
+  "Transnistria": {
+    "ciudad": "Tiraspol",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Aland": {
+    "ciudad": "Mariehamn",
+    "utc": "+02:00",
+    "horaChile": "19:00"
+  },
+  "Macao": {
+    "ciudad": "Macao",
+    "utc": "+08:00",
+    "horaChile": "13:00"
+  },
+  "Antartica": {
+    "ciudad": "Polo Sur",
+    "utc": "+13:00",
+    "horaChile": "08:00"
+  }
+}

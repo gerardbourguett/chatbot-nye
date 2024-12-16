@@ -1,0 +1,818 @@
+[
+  {
+    "hora": "07:00",
+    "UTC": "+14:00",
+    "lugares": [
+      {
+        "countries": "Kiribati",
+        "cities": "Kiritimati, Teraina, Tabuaeran, Maiden, Starbuck, Vostok, Caroline, Flint",
+        "timeZone": "LINT"
+      }
+    ]
+  },
+  {
+    "hora": "07:15",
+    "UTC": "+13:45",
+    "lugares": [
+      {
+        "countries": "Nueva Zelanda",
+        "cities": "Islas Chatham",
+        "timeZone": "CHADT"
+      }
+    ]
+  },
+  {
+    "hora": "08:00",
+    "UTC": "+13:00",
+    "lugares": [
+      {
+        "timeZone": "NZDT, TKT",
+        "countries": "Nueva Zelanda",
+        "cities": "Auckland, Wellington, Tokelau"
+      },
+      {
+        "#timeZone": "PHOT",
+        "countries": "Kiribati",
+        "cities": "Islas Fénix"
+      },
+      {
+        "timeZone": "WST",
+        "countries": "Samoa",
+        "cities": "Apia"
+      },
+      {
+        "timeZone": "TOT",
+        "countries": "Tonga",
+        "cities": "Nukualofa"
+      }
+    ]
+  },
+  {
+    "hora": "09:00",
+    "UTC": "+12:00",
+    "lugares": [
+      {
+        "timeZone": "FJT",
+        "countries": "Fiyi",
+        "cities": "Suva, Labasa, Lautoka, Nadi"
+      },
+      {
+        "timeZone": "ANAT y PETT",
+        "countries": "Rusia",
+        "cities": "Chukotka y Krai de Kamchatka"
+      },
+      {
+        "timeZone": "GILT",
+        "countries": "Kiribati",
+        "cities": "Islas Gilbert [Tarawa]"
+      },
+      {
+        "timeZone": "MHT",
+        "countries": "Islas Marshall",
+        "cities": "Majuro, Ebeye"
+      },
+      {
+        "timeZone": "WAKT",
+        "countries": "Estados Unidos",
+        "cities": "Isla Wake"
+      },
+      {
+        "timeZone": "TVT",
+        "countries": "Tuvalu",
+        "cities": "Funafuti"
+      },
+      {
+        "timeZone": "WFT",
+        "countries": "Francia",
+        "cities": "Wallis y Futuna"
+      },
+      {
+        "timeZone": "NRT",
+        "countries": "Nauru",
+        "cities": "Yarden"
+      }
+    ]
+  },
+  {
+    "hora": "10:00",
+    "UTC": "+11:00",
+    "lugares": [
+      {
+        "timeZone": "AEDT",
+        "countries": "Australia",
+        "cities": "Melbourne, Sydney, Canberra"
+      },
+      {
+        "timeZone": "SBT",
+        "countries": "Islas Salomón",
+        "cities": "Honiara"
+      },
+      {
+        "timeZone": "PONT",
+        "countries": "Micronesia",
+        "cities": "Pohnpei"
+      },
+      {
+        "timeZone": "BST",
+        "countries": "Papúa Nueva Guinea",
+        "cities": "Bougainville"
+      },
+      {
+        "timeZone": "VUT",
+        "countries": "Vanuatu",
+        "cities": "Port Vila"
+      },
+      {
+        "timeZone": "MAGT",
+        "countries": "Rusia",
+        "cities": "Magadán"
+      },
+      {
+        "timeZone": "NCT",
+        "countries": "Nueva Caledonia",
+        "cities": "Numea"
+      }
+    ]
+  },
+  {
+    "hora": "10:30",
+    "UTC": "+10:30",
+    "lugares": [
+      {
+        "timeZone": "ACST",
+        "countries": "Australia",
+        "cities": "Adelaida, Broken Hill, Ceduna, Port Augusta, Port Pirie, Whyalla"
+      }
+    ]
+  },
+  {
+    "hora": "11:00",
+    "UTC": "+10:00",
+    "lugares": [
+      {
+        "timeZone": "AEST",
+        "countries": "Australia",
+        "cities": "Brisbane, Gold Coast, Sunshine Coast"
+      },
+      {
+        "timeZone": "CHUT",
+        "countries": "Micronesia",
+        "cities": "Chuuk, Yap"
+      },
+      {
+        "timeZone": "VLAT",
+        "countries": "Rusia",
+        "cities": "Vladivostok"
+      },
+      {
+        "timeZone": "ChST",
+        "countries": "Estados Unidos",
+        "cities": "Guam e Islas Marianas del Norte"
+      },
+      {
+        "timeZone": "PGT",
+        "countries": "Papúa Nueva Guinea",
+        "cities": "Port Moresby"
+      }
+    ]
+  },
+  {
+    "hora": "11:30",
+    "UTC": "+09:30",
+    "lugares": [
+      {
+        "timeZone": "ACST",
+        "countries": "Australia",
+        "cities": "Alice Springs, Darwin, Tennant Creek, Yulara"
+      }
+    ]
+  },
+  {
+    "hora": "12:00",
+    "UTC": "+09:00",
+    "lugares": [
+      {
+        "timeZone": "JST",
+        "countries": "Japón",
+        "cities": "Tokio, Osaka, Sapporo, Nagoya, Fukuoka"
+      },
+      {
+        "timeZone": "KST",
+        "countries": "Corea del Sur",
+        "cities": "Seúl, Busan, Daegu, Incheon, Gwangju"
+      },
+      {
+        "timeZone": "CST",
+        "countries": "Corea del Norte",
+        "cities": "Pyongyang"
+      },
+      {
+        "timeZone": "YAKT",
+        "countries": "Rusia",
+        "cities": "Yakutsk"
+      },
+      {
+        "timeZone": "TLT",
+        "countries": "Timor Oriental",
+        "cities": "Dili"
+      },
+      {
+        "timeZone": "PWT",
+        "countries": "Palaos",
+        "cities": "Koror"
+      },
+      {
+        "timeZone": "WIT",
+        "countries": "Indonesia",
+        "cities": "Jayapura"
+      }
+    ]
+  },
+  {
+    "hora": "12:15",
+    "UTC": "+08:45",
+    "lugares": [
+      {
+        "timeZone": "ACWST",
+        "countries": "Australia",
+        "cities": "Eucla"
+      }
+    ]
+  },
+  {
+    "hora": "13:00",
+    "UTC": "+08:00",
+    "lugares": [
+      {
+        "timeZone": "CST",
+        "countries": "China",
+        "cities": "Pekín, Shanghái, Tianjin, Chongqing, Hong Kong, Macao"
+      },
+      {
+        "timeZone": "CST",
+        "countries": "Taiwán",
+        "cities": "Taipéi"
+      },
+      {
+        "timeZone": "BNT",
+        "countries": "Brunei",
+        "cities": "Bandar Seri Begawan"
+      },
+      {
+        "timeZone": "IRKT",
+        "countries": "Rusia",
+        "cities": "Irkutsk"
+      },
+      {
+        "timeZone": "ULAT",
+        "countries": "Mongolia",
+        "cities": "Ulaanbaatar"
+      },
+      {
+        "timeZone": "MYT",
+        "countries": "Malasia",
+        "cities": "Kuala Lumpur, Kuching"
+      },
+      {
+        "timeZone": "PHT",
+        "countries": "Filipinas",
+        "cities": "Manila"
+      },
+      {
+        "timeZone": "SGT",
+        "countries": "Singapur",
+        "cities": "Singapur"
+      },
+      {
+        "timeZone": "WITA",
+        "countries": "Indonesia",
+        "cities": "Este de Indonesia"
+      }
+    ]
+  },
+  {
+    "hora": "14:00",
+    "UTC": "+07:00",
+    "lugares": [
+      {
+        "timeZone": "ICT",
+        "countries": "Tailandia, Laos, Camboya, Vietnam",
+        "cities": "Bangkok, Phnom Penh, Vientián, Ciudad Ho Chi Minh"
+      },
+      {
+        "timeZone": "KRAT y NOVT",
+        "countries": "Rusia",
+        "cities": "Krasnodar y Novosibirsk"
+      },
+      {
+        "timeZone": "CXT",
+        "countries": "Australia",
+        "cities": "Islas de Navidad"
+      },
+      {
+        "timeZone": "HOVD",
+        "countries": "Mongolia",
+        "cities": "Khovd"
+      },
+      {
+        "timeZone": "WIIB",
+        "countries": "Indonesia",
+        "cities": "Oeste de Indonesia [Jakarta]"
+      }
+    ]
+  },
+  {
+    "hora": "14:30",
+    "UTC": "+06:30",
+    "lugares": [
+      {
+        "timeZone": "CCT",
+        "countries": "Cocos y Keeling",
+        "cities": "Islas Cocos"
+      },
+      {
+        "timeZone": "MMT",
+        "countries": "Birmania",
+        "cities": "Yangón"
+      }
+    ]
+  },
+  {
+    "hora": "15:00",
+    "UTC": "+06:00",
+    "lugares": [
+      {
+        "timeZone": "BTT",
+        "countries": "Bután",
+        "cities": "Thimphu"
+      },
+      {
+        "timeZone": "BST",
+        "countries": "Bangladesh",
+        "cities": "Daca"
+      },
+      {
+        "timeZone": "KGT",
+        "countries": "Kirguistán",
+        "cities": "Bishkek"
+      },
+      {
+        "timeZone": "OMST",
+        "countries": "Rusia",
+        "cities": "Omsk"
+      },
+      {
+        "timeZone": "IOT",
+        "countries": "Territorio Británico del Océano Índico",
+        "cities": "Isla Diego García"
+      }
+    ]
+  },
+  {
+    "hora": "15:15",
+    "UTC": "+05:45",
+    "lugares": [
+      {
+        "timeZone": "NPT",
+        "countries": "Nepal",
+        "cities": "Katmandú"
+      }
+    ]
+  },
+  {
+    "hora": "15:30",
+    "UTC": "+05:30",
+    "lugares": [
+      {
+        "timeZone": "IST",
+        "countries": "India",
+        "cities": "Nueva Delhi, Mumbai, Bangalore, Calcuta, Chennai"
+      },
+      {
+        "timeZone": "IST",
+        "countries": "Sri Lanka",
+        "cities": "Colombo, Jaffna, Sri Jayawardenepura Kotte"
+      }
+    ]
+  },
+  {
+    "hora": "16:00",
+    "UTC": "+05:00",
+    "lugares": [
+      {
+        "timeZone": "AQTT, MSK+2 y ORAT",
+        "countries": "Kazajistán",
+        "cities": "Almaty, Astaná"
+      },
+      {
+        "timeZone": "TJT",
+        "countries": "Tayikistán",
+        "cities": "Dusambé"
+      },
+      {
+        "timeZone": "PKT",
+        "countries": "Pakistán",
+        "cities": "Islamabad, Karachi, Lahore"
+      },
+      {
+        "timeZone": "MVT",
+        "countries": "Maldivas",
+        "cities": "Malé"
+      },
+      {
+        "timeZone": "TMT",
+        "countries": "Turkmenistán",
+        "cities": "Asjabad"
+      },
+      {
+        "timeZone": "UZT",
+        "countries": "Uzbekistán",
+        "cities": "Taskent"
+      },
+      {
+        "timeZone": "TFT",
+        "countries": "Francia",
+        "cities": "Isla Kerguelen"
+      },
+      {
+        "timeZone": "YEKT",
+        "countries": "Rusia",
+        "cities": "Yekaterinburgo"
+      }
+    ]
+  },
+  {
+    "hora": "16:30",
+    "UTC": "+04:30",
+    "lugares": [
+      {
+        "timeZone": "AFT",
+        "countries": "Afganistán",
+        "cities": "Kabul"
+      }
+    ]
+  },
+  {
+    "hora": "17:00",
+    "UTC": "+05:00",
+    "lugares": [
+      {
+        "timeZone": "AMT",
+        "countries": "Armenia",
+        "cities": "Ereván"
+      },
+      {
+        "timeZone": "AZT",
+        "countries": "Azerbaiyán",
+        "cities": "Bakú"
+      },
+      {
+        "timeZone": "GET",
+        "countries": "Georgia",
+        "cities": "Tiflis"
+      },
+      {
+        "timeZone": "MUT",
+        "countries": "Mauricio",
+        "cities": "Port Louis"
+      },
+      {
+        "timeZone": "GST",
+        "countries": "Emiratos Árabes Unidos",
+        "cities": "Abu Dabi"
+      },
+      {
+        "timeZone": "GST",
+        "countries": "Omán",
+        "cities": "Mascate"
+      },
+      {
+        "timeZone": "SCT",
+        "countries": "Seychelles",
+        "cities": "Victoria"
+      },
+      {
+        "timeZone": "RET",
+        "countries": "Francia",
+        "cities": "Reunión"
+      },
+      {
+        "timeZone": "SAMT",
+        "countries": "Rusia",
+        "cities": "Samara"
+      }
+    ]
+  },
+  {
+    "hora": "17:30",
+    "UTC": "+03:30",
+    "lugares": [
+      {
+        "timeZone": "IRST",
+        "countries": "Irán",
+        "cities": "Teherán"
+      }
+    ]
+  },
+  {
+    "hora": "18:00",
+    "UTC": "+03:00",
+    "lugares": [
+      {
+        "timeZone": "AST, EAT, FET, IDT, MSK, TRT y ARST",
+        "countries": "Rusia, Turquía, Arabia Saudita, Irak, Etiopía, Bielorrusia, Este de Ucrania, Somalia, Siria, Kenia, Tanzania, Madagascar, Uganda, Eritrea, Jordania, Yibuti, Yemen, Comoras, Baréin, Regiones autónomas de Georgia, Francia, Partes de Sudáfrica, Kuwait",
+        "cities": "Moscú, Estambul, Riad, Bagdad, Adís Abeba, Minsk, Crimea y Lugansk, Mogadiscio, Damasco, Nairobi, Dar es Salaam, Antananarivo, Kampala, Asmara, Amán, Yibuti, Saná, Moroni, Manama, Osetia del Sur y Abjasia, Mayotte, Pretoria, Ciudad del Cabo, Kuwait"
+      }
+    ]
+  },
+  {
+    "hora": "19:00",
+    "UTC": "+02:00",
+    "lugares": [
+      {
+        "timeZone": "CET",
+        "countries": "Grecia, Sudáfrica, Ucrania, Finlandia, Israel, Rumania, Egipto, Bulgaria, Botswana, Estonia, palestina, Zimbabwe, Letonia, Zambia, Libia, Chipre, mayor parte de República Democrática del Congo, Sudán, Burundi,Namibia, Malawi, Ruanda, Líbano, Sudán del Sur, Mozambique, Moldavia, Lesotho, Eswatini, Aland, Rusia",
+        "cities": "Atenas, Ciudad del Cabo, Kiev, Helsinki, Jerusalén, Bucarest, El Cairo, Sofía, Gaborone, Tallin, Ramala, Harare, Riga, Lusaka, Trípoli, Nicosia, Kinshasa, Jartum, Buyumbura, Windhoek, Lilongüe, Kigali, Beirut, Yuba, Maputo, Chisinau, Maseru, Mbabane, Mariehamn, Kaliningrado"
+      }
+    ]
+  },
+  {
+    "hora": "20:00",
+    "UTC": "+01:00",
+    "lugares": [
+      {
+        "timeZone": "CET",
+        "countries": "Alemania, Noruega, Suiza, Austria, Francia Continental, España Continental, Italia, Polonia, Países Bajos europeos, Nigeria, Suecia, Dinamarca, Bélgica, Túnez, Croacia, Argelia, Bosnia y Hercegovina, Eslovaquia, República Checa, Hungría, Marruecos, Angola, Chad, República Centroafricana, Gabón, Benín, Camerún, Guinea Ecuatorial, Albania, Kosovo, Servia, Eslovenia, Níger, resto de República Democrática del Congo, Congo, Luxemburgo, Sahara Occidental, Macedonia del Norte, Andorra, Malta, San Marino, Liechtenstein, Gibraltar, Ciudad del Vaticano, Mónaco",
+        "cities": "Berlín, Oslo, Berna, Viena, París, Madrid, Roma, Varsovia, Ámsterdam, Estocolmo, Copenhague, Bruselas, Túnez, Zagreb, Argel, Sarajevo, Bratislava, Praga, Budapest, Rabat, Luanda, Yamena, Bangui, Libreville, Porto Novo, Yaundé, Malabo, Tirana, Pristina, Belgrado, Liubliana, Niamey, Kinshasa, Brazzaville, Luxemburgo, El Aaiún, Skopie, Andorra la Vieja, La Valeta, San Marino, Vaduz, Gibraltar, Ciudad del Vaticano, Mónaco"
+      }
+    ]
+  },
+  {
+    "hora": "21:00",
+    "UTC": "+00:00",
+    "lugares": [
+      {
+        "timeZone": "GMT",
+        "countries": "Reino Unido, Portugal continental, Irlanda, Islas Canarias, Islandia, Costa de Marfil, Burkina Faso, Senegal, Sierra Leona, Ghana, Togo, Liberia, Mali, Guinea, Mauritania, Santa Helena, Gambia, Guinea-Bissau, Guernsey, Santo Tomé y Príncipe, zonas de Antártica, zonas de Groenlandia, Isla de Man, Islas Faroe, Jersey",
+        "cities": "Londres, Lisboa, Dublín, Santa Cruz de Tenerife, Reikiavik, Yamusukro, Uagadugú, Dakar, Freetown, Acra, Lomé, Monrovia, Bamako, Conakri, Nuakchot, Jamestown, Banjul, Bissau, Saint Peter Port, Santo Tomé, Antártida, Groenlandia, Douglas, Tórshavn, Saint Helier"
+      }
+    ]
+  },
+  {
+    "hora": "22:00",
+    "UTC": "-01:00",
+    "lugares": [
+      {
+        "timeZone": "CVT",
+        "countries": "Cabo Verde",
+        "cities": "Praia"
+      },
+      {
+        "timeZone": "AZOT",
+        "countries": "Portugal",
+        "cities": "Islas Azores"
+      }
+    ]
+  },
+  {
+    "hora": "23:00",
+    "UTC": "-02:00",
+    "lugares": [
+      {
+        "timeZone": "WGT",
+        "countries": "Groenlandia",
+        "cities": "Nuuk, Ittoqqortoormiit"
+      },
+      {
+        "timeZone": "FNT",
+        "countries": "Brasil",
+        "cities": "Fernando de Noronha"
+      },
+      {
+        "timeZone": "GST",
+        "countries": "Georgia del Sur y Sandwich del Sur",
+        "cities": "Grytviken"
+      }
+    ]
+  },
+  {
+    "hora": "00:00",
+    "UTC": "-03:00",
+    "lugares": [
+      {
+        "timeZone": "BRT",
+        "countries": "Brasil",
+        "cities": "Brasilia, Rio de Janeiro, São Paulo, Belo Horizonte, Salvador"
+      },
+      {
+        "timeZone": "GFT",
+        "countries": "Guayana Francesa",
+        "cities": "Cayena"
+      },
+      {
+        "timeZone": "SRT",
+        "countries": "Surinam",
+        "cities": "Paramaribo"
+      },
+      {
+        "timeZone": "PMST",
+        "countries": "Francia",
+        "cities": "San Pedro y Miquelón"
+      },
+      {
+        "timeZone": "ART",
+        "countries": "Argentina",
+        "cities": "Buenos Aires, Córdoba, Rosario, Mendoza, La Plata"
+      },
+      {
+        "timeZone": "CLST",
+        "countries": "Chile",
+        "cities": "Territorio Continental de Chile"
+      },
+      {
+        "timeZone": "PYT",
+        "countries": "Paraguay",
+        "cities": "Asunción"
+      },
+      {
+        "timeZone": "UYT",
+        "countries": "Uruguay",
+        "cities": "Montevideo"
+      },
+      {
+        "timeZone": "FKST",
+        "countries": "Islas Malvinas",
+        "cities": "Stanley"
+      }
+    ]
+  },
+  {
+    "hora": "00:30",
+    "UTC": "-03:30",
+    "lugares": [
+      {
+        "timeZone": "NST",
+        "countries": "Canadá",
+        "cities": "Terranova y Labrador"
+      }
+    ]
+  },
+  {
+    "hora": "01:00",
+    "UTC": "-04:00",
+    "lugares": [
+      {
+        "countries": "Canadá, Vebezuela, Bolivia, Brasil, Puerto Rica, República Dominicana, Trinidad y Tobago, Islas Vírgenes de los Estados Unidos, Guyana, Guadalupe, San Kitts y nevis, Santa Lucía, Antillas Neerlandesas, Antigua y Barbuda, Islas Vírgenes Británicas, Groenlandia, San Vicente y las Granadinas, Anguila, Dominica, Bermuda, Sint Maarten, Montserrat, Aruba, San Bartolomé, Granada, San Martin, Curaçao, Barbados, Martinica",
+        "cities": "Caracas, La Paz, Brasilia, San Juan, Santo Domingo, Puerto España, Charlotte Amalie, Georgetown, Basse-Terre, Basseterre, Castries, Willemstad, Saint John's, Road Town, The Valley, Oranjestad, Gustavia, Saint George's, Marigot, Bridgetown, Fort-de-France"
+      }
+    ]
+  },
+  {
+    "hora": "02:00",
+    "UTC": "-05:00",
+    "lugares": [
+      {
+        "countries": "Estados Unidos, Canadá, Colombia, Ecuador continental, Perú, Cuba, Brasil, Panamá, México, Haití, Bahamas, Islas Turcas y Caicos, Jamaica, Isla de Pascua, Islas Caimán",
+        "cities": "Zona Este, Ottawa, Bogotá, Quito, Lima, La Habana, Acre, Ciudad de Panamá, Veracruz, Puerto Príncipe, Nassau, Cockburn Town, Kingston, Hanga Roa, George Town"
+      }
+    ]
+  },
+  {
+    "hora": "03:00",
+    "UTC": "-06:00",
+    "lugares": [
+      {
+        "timeZone": "CST",
+        "countries": "Estados Unidos, México, Canadá, Costa Rica, El Salvador, Honduras, México, Nicaragua, Guatemala, Ecuador",
+        "cities": "Chicago, Ciudad de México, Winnipeg, San José, San Salvador, Teguicigalpa, Ciudad de Guatemala, Islas Galápagos"
+      }
+    ]
+  },
+  {
+    "hora": "04:00",
+    "UTC": "-07:00",
+    "lugares": [
+      {
+        "timeZone": "MST",
+        "countries": "Estados Unidos",
+        "cities": "Arizona, Colorado, Montana, Nuevo México, Utah, Wyoming"
+      },
+      {
+        "timeZone": "MST",
+        "countries": "México",
+        "cities": "Chihuahua, Sinaloa, Mazatlán"
+      },
+      {
+        "timeZone": "PDT",
+        "countries": "Canadá",
+        "cities": "Edmonton, Calgary"
+      }
+    ]
+  },
+  {
+    "hora": "05:00",
+    "UTC": "-08:00",
+    "lugares": [
+      {
+        "timeZone": "PST",
+        "countries": "Estados Unidos",
+        "cities": "Los Angeles, San Francisco, Las Vegas, San Diego, Seattle, Portland"
+      },
+      {
+        "timeZone": "PST",
+        "countries": "Canadá",
+        "cities": "Vancouver, Victoria, Whitehorse"
+      },
+      {
+        "timeZone": "PST",
+        "countries": "Islas Pitcairn",
+        "cities": "Islas Pitcairn"
+      },
+      {
+        "timeZone": "PST",
+        "countries": "Isla Clipperton",
+        "cities": "Isla Clipperton"
+      }
+    ]
+  },
+  {
+    "hora": "06:00",
+    "UTC": "-09:00",
+    "lugares": [
+      {
+        "timeZone": "AKST",
+        "countries": "Estados Unidos",
+        "cities": "Alaska"
+      },
+      {
+        "timezone": "GAMT",
+        "countries": "Polinesia Francesa",
+        "cities": "Gambier"
+      }
+    ]
+  },
+  {
+    "hora": "06:30",
+    "UTC": "-09:30",
+    "lugares": [
+      {
+        "timeZone": "MART",
+        "countries": "Polinesia Francesa",
+        "cities": "Islas Marquesas"
+      }
+    ]
+  },
+  {
+    "hora": "07:00",
+    "UTC": "-10:00",
+    "lugares": [
+      {
+        "timeZone": "HST",
+        "countries": "Estados Unidos",
+        "cities": "Hawái"
+      },
+      {
+        "timeZone": "CKT",
+        "countries": "Islas Cook",
+        "cities": "Rarotonga"
+      },
+      {
+        "timeZone": "TAHT",
+        "countries": "Polinesia Francesa",
+        "cities": "Tahití"
+      }
+    ]
+  },
+  {
+    "hora": "08:00",
+    "UTC": "-11:00",
+    "lugares": [
+      {
+        "timeZone": "SST",
+        "countries": "Estados Unidos",
+        "cities": "Islas Midway e Islas de la Línea"
+      },
+      {
+        "timeZone": "NUT",
+        "countries": "Niue",
+        "cities": "Alofi"
+      },
+      {
+        "timeZone": "SST",
+        "countries": "Samoa Americana",
+        "cities": "Pago Pago"
+      }
+    ]
+  },
+  {
+    "hora": "09:00",
+    "UTC": "-12:00",
+    "lugares": [
+      {
+        "timeZone": "AoE",
+        "countries": "Estados Unidos",
+        "cities": "Isla Baker y Howland"
+      }
+    ]
+  }
+]

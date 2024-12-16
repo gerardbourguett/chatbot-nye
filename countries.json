@@ -1,0 +1,3211 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "twitch_code": "afganistan",
+      "code": "AF",
+      "cities": [
+        {
+          "name": "Kabul",
+          "utc": "+04:30",
+          "chileanHour": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Albania",
+      "twitch_code": "albania",
+      "code": "AL",
+      "cities": [
+        {
+          "name": "Tirana",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Alemania",
+      "twitch_code": "alemania",
+      "code": "DE",
+      "cities": [
+        {
+          "name": "Berlín",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Andorra",
+      "twitch_code": "andorra",
+      "code": "AD",
+      "cities": [
+        {
+          "name": "Andorra la Vieja",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Angola",
+      "twitch_code": "angola",
+      "code": "AO",
+      "cities": [
+        {
+          "name": "Luanda",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Antigua y Barbuda",
+      "twitch_code": "antigua-y-barbuda",
+      "code": "AG",
+      "cities": [
+        {
+          "name": "Saint John's",
+          "utc": "-04:00",
+          "chileanHour": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "Arabia Saudita",
+      "twitch_code": "arabia-saudita",
+      "code": "SA",
+      "cities": [
+        {
+          "name": "Riad",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Argelia",
+      "twitch_code": "argelia",
+      "code": "DZ",
+      "cities": [
+        {
+          "name": "Argel",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "twitch_code": "argentina",
+      "code": "AR",
+      "cities": [
+        {
+          "name": "Buenos Aires",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "Armenia",
+      "twitch_code": "armenia",
+      "code": "AM",
+      "cities": [
+        {
+          "name": "Ereván",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "twitch_code": "australia",
+      "code": "AU",
+      "cities": [
+        {
+          "name": "Isla Norfolk",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        },
+        {
+          "name": "Sydney",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        },
+        {
+          "name": "Melbourne",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        },
+        {
+          "name": "Broken Hill",
+          "utc": "+10:30",
+          "chileanHour": "10:30"
+        },
+        {
+          "name": "Brisbane",
+          "utc": "+10:00",
+          "chileanHour": "11:00"
+        },
+        {
+          "name": "Darwin",
+          "utc": "+09:30",
+          "chileanHour": "11:30"
+        },
+        {
+          "name": "Eucla",
+          "utc": "+08:45",
+          "chileanHour": "12:15"
+        },
+        {
+          "name": "Perth",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        },
+        {
+          "name": "Isla de Navidad",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        },
+        {
+          "name": "Isla Cocos",
+          "utc": "+06:30",
+          "chileanHour": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "twitch_code": "austria",
+      "code": "AT",
+      "cities": [
+        {
+          "name": "Viena",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Azerbaiyán",
+      "twitch_code": "azerbaiyan",
+      "code": "AZ",
+      "cities": [
+        {
+          "name": "Bakú",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Bahamas",
+      "twitch_code": "bahamas",
+      "code": "BS",
+      "cities": [
+        {
+          "name": "Nasáu",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Bahréin",
+      "twitch_code": "bahrein",
+      "code": "BH",
+      "cities": [
+        {
+          "name": "Manama",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "twitch_code": "bangladesh",
+      "code": "BD",
+      "cities": [
+        {
+          "name": "Daca",
+          "utc": "+06:00",
+          "chileanHour": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Barbados",
+      "twitch_code": "barbados",
+      "code": "BB",
+      "cities": [
+        {
+          "name": "Bridgetown",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Bélgica",
+      "twitch_code": "belgica",
+      "code": "BE",
+      "cities": [
+        {
+          "name": "Bruselas",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Belice",
+      "twitch_code": "belice",
+      "code": "BZ",
+      "cities": [
+        {
+          "name": "Belmopán",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        }
+      ]
+    },
+    {
+      "name": "Benín",
+      "twitch_code": "benin",
+      "code": "BJ",
+      "cities": [
+        {
+          "name": "Porto Novo",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Bhutan",
+      "twitch_code": "bhutan",
+      "code": "BT",
+      "cities": [
+        {
+          "name": "Timbu",
+          "utc": "+06:00",
+          "chileanHour": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Bielorrusia",
+      "twitch_code": "bielorrusia",
+      "code": "BY",
+      "cities": [
+        {
+          "name": "Minsk",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Birmania",
+      "twitch_code": "birmania",
+      "code": "MM",
+      "cities": [
+        {
+          "name": "Naipyidó",
+          "utc": "+06:30",
+          "chileanHour": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "twitch_code": "bolivia",
+      "code": "BO",
+      "cities": [
+        {
+          "name": "La Paz",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Bosnia y Herzegovina",
+      "twitch_code": "bosnia-y-herzegovina",
+      "code": "BA",
+      "cities": [
+        {
+          "name": "Sarajevo",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Botswana",
+      "twitch_code": "botswana",
+      "code": "BW",
+      "cities": [
+        {
+          "name": "Gaborone",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "twitch_code": "brasil",
+      "code": "BR",
+      "cities": [
+        {
+          "name": "Fernando de Noronha",
+          "utc": "-02:00",
+          "chileanHour": "23:00"
+        },
+        {
+          "name": "Brasilia, Rio de Janeiro, Sao Paulo",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        },
+        {
+          "name": "Amazonas",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        },
+        {
+          "name": "Acre",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Brunei",
+      "twitch_code": "brunei",
+      "code": "BN",
+      "cities": [
+        {
+          "name": "Bandar Seri Begawan",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Bulgaria",
+      "twitch_code": "bulgaria",
+      "code": "BG",
+      "cities": [
+        {
+          "name": "Sofía",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Burkina Faso",
+      "twitch_code": "burkinafaso",
+      "code": "BF",
+      "cities": [
+        {
+          "name": "Uagadugú",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Burundi",
+      "twitch_code": "burundi",
+      "code": "BI",
+      "cities": [
+        {
+          "name": "Buyumbura",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Cabo Verde",
+      "twitch_code": "caboverde",
+      "code": "CV",
+      "cities": [
+        {
+          "name": "Praia",
+          "utc": "-01:00",
+          "chileanHour": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Camboya",
+      "twitch_code": "camboya",
+      "code": "KH",
+      "cities": [
+        {
+          "name": "Phnom Penh",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Camerún",
+      "twitch_code": "camerun",
+      "code": "CM",
+      "cities": [
+        {
+          "name": "Yaundé",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Canadá",
+      "twitch_code": "canada",
+      "code": "CA",
+      "cities": [
+        {
+          "name": "Terranova y Labrador",
+          "utc": "-03:30",
+          "chileanHour": "00:30"
+        },
+        {
+          "name": "Nueva Escocia",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        },
+        {
+          "name": "Toronto",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        },
+        {
+          "name": "Winnipeg",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        },
+        {
+          "name": "Edmonton",
+          "utc": "-07:00",
+          "chileanHour": "04:00"
+        },
+        {
+          "name": "Vancouver",
+          "utc": "-08:00",
+          "chileanHour": "05:00"
+        }
+      ]
+    },
+    {
+      "name": "Catar",
+      "twitch_code": "qatar",
+      "code": "QA",
+      "cities": [
+        {
+          "name": "Doha",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "República Centroafricana",
+      "twitch_code": "republicacentroafricana",
+      "code": "CF",
+      "cities": [
+        {
+          "name": "Bangui",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Chad",
+      "twitch_code": "chad",
+      "code": "TD",
+      "cities": [
+        {
+          "name": "N'Djamena",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "República Checa",
+      "twitch_code": "republicacheca",
+      "code": "CZ",
+      "cities": [
+        {
+          "name": "Praga",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "twitch_code": "chile",
+      "code": "CL",
+      "cities": [
+        {
+          "name": "Santiago",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        },
+        {
+          "name": "Isla de Pascua",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "twitch_code": "china",
+      "code": "CN",
+      "cities": [
+        {
+          "name": "Pekín",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Chipre",
+      "twitch_code": "chipre",
+      "code": "CY",
+      "cities": [
+        {
+          "name": "Nicosia",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Colombia",
+      "twitch_code": "colombia",
+      "code": "CO",
+      "cities": [
+        {
+          "name": "Bogotá",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Comoras",
+      "twitch_code": "comoras",
+      "code": "KM",
+      "cities": [
+        {
+          "name": "Moroni",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Congo",
+      "twitch_code": "congo",
+      "code": "CG",
+      "cities": [
+        {
+          "name": "Brazzaville",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "República Democrática del Congo",
+      "twitch_code": "rdcongo",
+      "code": "CD",
+      "cities": [
+        {
+          "name": "Kinshasa",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        },
+        {
+          "name": "Lubumbashi",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Corea del Norte",
+      "twitch_code": "coreadelnorte",
+      "code": "KP",
+      "cities": [
+        {
+          "name": "Pyongyang",
+          "utc": "+09:00",
+          "chileanHour": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Corea del Sur",
+      "twitch_code": "coreadelsur",
+      "code": "KR",
+      "cities": [
+        {
+          "name": "Seúl",
+          "utc": "+09:00",
+          "chileanHour": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Costa de Marfil",
+      "twitch_code": "costademarfil",
+      "code": "CI",
+      "cities": [
+        {
+          "name": "Yamusukro",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Costa Rica",
+      "twitch_code": "costarica",
+      "code": "CR",
+      "cities": [
+        {
+          "name": "San José",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        }
+      ]
+    },
+    {
+      "name": "Croacia",
+      "twitch_code": "croacia",
+      "code": "HR",
+      "cities": [
+        {
+          "name": "Zagreb",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Cuba",
+      "twitch_code": "cuba",
+      "code": "CU",
+      "cities": [
+        {
+          "name": "La Habana",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Dinamarca",
+      "twitch_code": "dinamarca",
+      "code": "DK",
+      "cities": [
+        {
+          "name": "Copenhague",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Dominica",
+      "twitch_code": "dominica",
+      "code": "DM",
+      "cities": [
+        {
+          "name": "Roseau",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "twitch_code": "ecuador",
+      "code": "EC",
+      "cities": [
+        {
+          "name": "Quito",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        },
+        {
+          "name": "Islas Galápagos",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        }
+      ]
+    },
+    {
+      "name": "Egipto",
+      "twitch_code": "egipto",
+      "code": "EG",
+      "cities": [
+        {
+          "name": "El Cairo",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "El Salvador",
+      "twitch_code": "el_salvador",
+      "code": "SV",
+      "cities": [
+        {
+          "name": "San Salvador",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        }
+      ]
+    },
+    {
+      "name": "Emiratos Árabes Unidos",
+      "twitch_code": "emiratosarabesunidos",
+      "code": "AE",
+      "cities": [
+        {
+          "name": "Abu Dabi",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Eritrea",
+      "twitch_code": "eritrea",
+      "code": "ER",
+      "cities": [
+        {
+          "name": "Asmara",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Eslovaquia",
+      "twitch_code": "eslovaquia",
+      "code": "SK",
+      "cities": [
+        {
+          "name": "Bratislava",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Eslovenia",
+      "twitch_code": "eslovenia",
+      "code": "SI",
+      "cities": [
+        {
+          "name": "Liubliana",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "España",
+      "twitch_code": "espana",
+      "code": "ES",
+      "cities": [
+        {
+          "name": "Madrid",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        },
+        {
+          "name": "Canarias",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Estados Unidos",
+      "twitch_code": "estadosunidos",
+      "code": "US",
+      "cities": [
+        {
+          "name": "Nueva York, Miami, Atlanta",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        },
+        {
+          "name": "Chicago, Houston",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        },
+        {
+          "name": "Denver, Phoenix",
+          "utc": "-07:00",
+          "chileanHour": "04:00"
+        },
+        {
+          "name": "Los Ángeles, San Francisco, Las Vegas",
+          "utc": "-08:00",
+          "chileanHour": "05:00"
+        },
+        {
+          "name": "Alaska",
+          "utc": "-09:00",
+          "chileanHour": "06:00"
+        },
+        {
+          "name": "Hawái",
+          "utc": "-10:00",
+          "chileanHour": "07:00"
+        }
+      ]
+    },
+    {
+      "name": "Estonia",
+      "twitch_code": "estonia",
+      "code": "EE",
+      "cities": [
+        {
+          "name": "Tallin",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Etiopía",
+      "twitch_code": "etiopia",
+      "code": "ET",
+      "cities": [
+        {
+          "name": "Adís Abeba",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Fiyi",
+      "twitch_code": "fiyi",
+      "code": "FJ",
+      "cities": [
+        {
+          "name": "Suva",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Filipinas",
+      "twitch_code": "filipinas",
+      "code": "PH",
+      "cities": [
+        {
+          "name": "Manila",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Finlandia",
+      "twitch_code": "finlandia",
+      "code": "FI",
+      "cities": [
+        {
+          "name": "Helsinki",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Francia",
+      "twitch_code": "francia",
+      "code": "FR",
+      "cities": [
+        {
+          "name": "París",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Gabón",
+      "twitch_code": "gabon",
+      "code": "GA",
+      "cities": [
+        {
+          "name": "Libreville",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Gambia",
+      "twitch_code": "gambia",
+      "code": "GM",
+      "cities": [
+        {
+          "name": "Banjul",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "twitch_code": "georgia",
+      "code": "GE",
+      "cities": [
+        {
+          "name": "Tiflis",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Ghana",
+      "twitch_code": "ghana",
+      "code": "GH",
+      "cities": [
+        {
+          "name": "Acra",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Gibraltar",
+      "twitch_code": "gibraltar",
+      "code": "GI",
+      "cities": [
+        {
+          "name": "Gibraltar",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Granada",
+      "twitch_code": "granada",
+      "code": "GD",
+      "cities": [
+        {
+          "name": "Saint George's",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Grecia",
+      "twitch_code": "grecia",
+      "code": "GR",
+      "cities": [
+        {
+          "name": "Atenas",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Groenlandia",
+      "twitch_code": "groenlandia",
+      "code": "GL",
+      "cities": [
+        {
+          "name": "Nuuk",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        },
+        {
+          "name": "Danmarkshavn",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        },
+        {
+          "name": "Ittoqqortoormiit",
+          "utc": "-01:00",
+          "chileanHour": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Guatemala",
+      "twitch_code": "guatemala",
+      "code": "GT",
+      "cities": [
+        {
+          "name": "Ciudad de Guatemala",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        }
+      ]
+    },
+    {
+      "name": "Guayana Francesa",
+      "twitch_code": "guayanafrancesa",
+      "code": "GF",
+      "cities": [
+        {
+          "name": "Cayena",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "Guinea",
+      "twitch_code": "guinea",
+      "code": "GN",
+      "cities": [
+        {
+          "name": "Conakry",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Guinea Bissau",
+      "twitch_code": "guineabissau",
+      "code": "GW",
+      "cities": [
+        {
+          "name": "Bissau",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Guinea Ecuatorial",
+      "twitch_code": "guineaecuatorial",
+      "code": "GQ",
+      "cities": [
+        {
+          "name": "Malabo",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Guyana",
+      "twitch_code": "guyana",
+      "code": "GY",
+      "cities": [
+        {
+          "name": "Georgetown",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Haití",
+      "twitch_code": "haiti",
+      "code": "HT",
+      "cities": [
+        {
+          "name": "Puerto Príncipe",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Honduras",
+      "twitch_code": "honduras",
+      "code": "HN",
+      "cities": [
+        {
+          "name": "Tegucigalpa",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "twitch_code": "hongkong",
+      "code": "HK",
+      "cities": [
+        {
+          "name": "Hong Kong",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Hungría",
+      "twitch_code": "hungría",
+      "code": "HU",
+      "cities": [
+        {
+          "name": "Budapest",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "twitch_code": "india",
+      "code": "IN",
+      "cities": [
+        {
+          "name": "Nueva Delhi",
+          "utc": "+05:30",
+          "chileanHour": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "twitch_code": "indonesia",
+      "code": "ID",
+      "cities": [
+        {
+          "name": "Yakarta",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        },
+        {
+          "name": "Bali",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        },
+        {
+          "name": "Jayapura",
+          "utc": "+09:00",
+          "chileanHour": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Irak",
+      "twitch_code": "irak",
+      "code": "IQ",
+      "cities": [
+        {
+          "name": "Bagdad",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Irán",
+      "twitch_code": "iran",
+      "code": "IR",
+      "cities": [
+        {
+          "name": "Teherán",
+          "utc": "+03:30",
+          "chileanHour": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Irlanda",
+      "twitch_code": "irlanda",
+      "code": "IE",
+      "cities": [
+        {
+          "name": "Dublín",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Islandia",
+      "twitch_code": "islandia",
+      "code": "IS",
+      "cities": [
+        {
+          "name": "Reikiavik",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "twitch_code": "israel",
+      "code": "IL",
+      "cities": [
+        {
+          "name": "Jerusalén",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Italia",
+      "twitch_code": "italia",
+      "code": "IT",
+      "cities": [
+        {
+          "name": "Roma",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Jamaica",
+      "twitch_code": "jamaica",
+      "code": "JM",
+      "cities": [
+        {
+          "name": "Kingston",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Japón",
+      "twitch_code": "japon",
+      "code": "JP",
+      "cities": [
+        {
+          "name": "Tokio",
+          "utc": "+09:00",
+          "chileanHour": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Jordania",
+      "twitch_code": "jordania",
+      "code": "JO",
+      "cities": [
+        {
+          "name": "Amán",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Kazajistán",
+      "twitch_code": "kazajistan",
+      "code": "KZ",
+      "cities": [
+        {
+          "name": "Astana",
+          "utc": "+06:00",
+          "chileanHour": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Kenia",
+      "twitch_code": "kenia",
+      "code": "KE",
+      "cities": [
+        {
+          "name": "Nairobi",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Kirguistán",
+      "twitch_code": "kirguistan",
+      "code": "KG",
+      "cities": [
+        {
+          "name": "Biskek",
+          "utc": "+06:00",
+          "chileanHour": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Kiribati",
+      "twitch_code": "kiribati",
+      "code": "KI",
+      "cities": [
+        {
+          "name": "Kiritimati",
+          "utc": "+14:00",
+          "chileanHour": "07:00"
+        },
+        {
+          "name": "Islas Fénix",
+          "utc": "+13:00",
+          "chileanHour": "08:00"
+        },
+        {
+          "name": "Tarawa",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Kuwait",
+      "twitch_code": "kuwait",
+      "code": "KW",
+      "cities": [
+        {
+          "name": "Kuwait",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Laos",
+      "twitch_code": "laos",
+      "code": "LA",
+      "cities": [
+        {
+          "name": "Vientián",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Lesoto",
+      "twitch_code": "lesoto",
+      "code": "LS",
+      "cities": [
+        {
+          "name": "Maseru",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Letonia",
+      "twitch_code": "letonia",
+      "code": "LV",
+      "cities": [
+        {
+          "name": "Riga",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Líbano",
+      "twitch_code": "libano",
+      "code": "LB",
+      "cities": [
+        {
+          "name": "Beirut",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Liberia",
+      "twitch_code": "liberia",
+      "code": "LR",
+      "cities": [
+        {
+          "name": "Monrovia",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Libia",
+      "twitch_code": "libia",
+      "code": "LY",
+      "cities": [
+        {
+          "name": "Trípoli",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Liechtenstein",
+      "twitch_code": "liechtenstein",
+      "code": "LI",
+      "cities": [
+        {
+          "name": "Vaduz",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Lituania",
+      "twitch_code": "lituania",
+      "code": "LT",
+      "cities": [
+        {
+          "name": "Vilna",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Luxemburgo",
+      "twitch_code": "luxemburgo",
+      "code": "LU",
+      "cities": [
+        {
+          "name": "Luxemburgo",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Macedonia",
+      "twitch_code": "macedonia",
+      "code": "MK",
+      "cities": [
+        {
+          "name": "Skopie",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Madagascar",
+      "twitch_code": "madagascar",
+      "code": "MG",
+      "cities": [
+        {
+          "name": "Antananarivo",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Malasia",
+      "twitch_code": "malasia",
+      "code": "MY",
+      "cities": [
+        {
+          "name": "Kuala Lumpur",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Malawi",
+      "twitch_code": "malawi",
+      "code": "MW",
+      "cities": [
+        {
+          "name": "Lilongüe",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Maldivas",
+      "twitch_code": "maldivas",
+      "code": "MV",
+      "cities": [
+        {
+          "name": "Malé",
+          "utc": "+05:00",
+          "chileanHour": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Malí",
+      "twitch_code": "mali",
+      "code": "ML",
+      "cities": [
+        {
+          "name": "Bamako",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Malta",
+      "twitch_code": "malta",
+      "code": "MT",
+      "cities": [
+        {
+          "name": "La Valeta",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Marruecos",
+      "twitch_code": "marruecos",
+      "code": "MA",
+      "cities": [
+        {
+          "name": "Rabat",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Mauricio",
+      "twitch_code": "mauricio",
+      "code": "MU",
+      "cities": [
+        {
+          "name": "Port Louis",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Mauritania",
+      "twitch_code": "mauritania",
+      "code": "MR",
+      "cities": [
+        {
+          "name": "Nuakchot",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "México",
+      "twitch_code": "mexico",
+      "code": "MX",
+      "cities": [
+        {
+          "name": "Ciudad de México",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        },
+        {
+          "name": "Tijuana",
+          "utc": "-08:00",
+          "chileanHour": "05:00"
+        },
+        {
+          "name": "Chihuahua",
+          "utc": "-07:00",
+          "chileanHour": "04:00"
+        },
+        {
+          "name": "Hermosillo",
+          "utc": "-07:00",
+          "chileanHour": "04:00"
+        },
+        {
+          "name": "Mazatlán",
+          "utc": "-07:00",
+          "chileanHour": "04:00"
+        },
+        {
+          "name": "Mérida",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        },
+        {
+          "name": "Monterrey",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        },
+        {
+          "name": "Cancún",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Micronesia",
+      "twitch_code": "micronesia",
+      "code": "FM",
+      "cities": [
+        {
+          "name": "Palikir",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Moldavia",
+      "twitch_code": "moldavia",
+      "code": "MD",
+      "cities": [
+        {
+          "name": "Chisináu",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Mónaco",
+      "twitch_code": "monaco",
+      "code": "MC",
+      "cities": [
+        {
+          "name": "Mónaco",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Mongolia",
+      "twitch_code": "mongolia",
+      "code": "MN",
+      "cities": [
+        {
+          "name": "Ulán Bator",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        },
+        {
+          "name": "Hovd",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Montenegro",
+      "twitch_code": "montenegro",
+      "code": "ME",
+      "cities": [
+        {
+          "name": "Podgorica",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Mozambique",
+      "twitch_code": "mozambique",
+      "code": "MZ",
+      "cities": [
+        {
+          "name": "Maputo",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Namibia",
+      "twitch_code": "namibia",
+      "code": "NA",
+      "cities": [
+        {
+          "name": "Windhoek",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Nauru",
+      "twitch_code": "nauru",
+      "code": "NR",
+      "cities": [
+        {
+          "name": "Yaren",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Nepal",
+      "twitch_code": "nepal",
+      "code": "NP",
+      "cities": [
+        {
+          "name": "Katmandú",
+          "utc": "+05:45",
+          "chileanHour": "15:15"
+        }
+      ]
+    },
+    {
+      "name": "Nicaragua",
+      "twitch_code": "nicaragua",
+      "code": "NI",
+      "cities": [
+        {
+          "name": "Managua",
+          "utc": "-06:00",
+          "chileanHour": "03:00"
+        }
+      ]
+    },
+    {
+      "name": "Níger",
+      "twitch_code": "niger",
+      "code": "NE",
+      "cities": [
+        {
+          "name": "Niamey",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "twitch_code": "nigeria",
+      "code": "NG",
+      "cities": [
+        {
+          "name": "Abuya",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Noruega",
+      "twitch_code": "noruega",
+      "code": "NO",
+      "cities": [
+        {
+          "name": "Oslo",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Nueva Zelanda",
+      "twitch_code": "nuevazelanda",
+      "code": "NZ",
+      "cities": [
+        {
+          "name": "Wellington",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        },
+        {
+          "name": "Auckland",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        },
+        {
+          "name": "Chatham",
+          "utc": "+12:45",
+          "chileanHour": "09:15"
+        }
+      ]
+    },
+    {
+      "name": "Omán",
+      "twitch_code": "oman",
+      "code": "OM",
+      "cities": [
+        {
+          "name": "Mascate",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Países Bajos",
+      "twitch_code": "paisesbajos",
+      "code": "NL",
+      "cities": [
+        {
+          "name": "Ámsterdam",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Pakistán",
+      "twitch_code": "pakistan",
+      "code": "PK",
+      "cities": [
+        {
+          "name": "Islamabad",
+          "utc": "+05:00",
+          "chileanHour": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Palaos",
+      "twitch_code": "palaos",
+      "code": "PW",
+      "cities": [
+        {
+          "name": "Melekeok",
+          "utc": "+09:00",
+          "chileanHour": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Palestina",
+      "twitch_code": "palestina",
+      "code": "PS",
+      "cities": [
+        {
+          "name": "Jerusalén",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Panamá",
+      "twitch_code": "panama",
+      "code": "PA",
+      "cities": [
+        {
+          "name": "Ciudad de Panamá",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Papúa Nueva Guinea",
+      "twitch_code": "papuanuevaguinea",
+      "code": "PG",
+      "cities": [
+        {
+          "name": "Port Moresby",
+          "utc": "+10:00",
+          "chileanHour": "11:00"
+        },
+        {
+          "name": "Bougainville",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Paraguay",
+      "twitch_code": "paraguay",
+      "code": "PY",
+      "cities": [
+        {
+          "name": "Asunción",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Perú",
+      "twitch_code": "peru",
+      "code": "PE",
+      "cities": [
+        {
+          "name": "Lima",
+          "utc": "-05:00",
+          "chileanHour": "02:00"
+        }
+      ]
+    },
+    {
+      "name": "Polonia",
+      "twitch_code": "polonia",
+      "code": "PL",
+      "cities": [
+        {
+          "name": "Varsovia",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "twitch_code": "portugal",
+      "code": "PT",
+      "cities": [
+        {
+          "name": "Lisboa",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        },
+        {
+          "name": "Madeira",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        },
+        {
+          "name": "Azores",
+          "utc": "-01:00",
+          "chileanHour": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Reino Unido",
+      "twitch_code": "reinounido",
+      "code": "GB",
+      "cities": [
+        {
+          "name": "Londres",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Rusia",
+      "twitch_code": "rusia",
+      "code": "RU",
+      "cities": [
+        {
+          "name": "Moscú",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        },
+        {
+          "name": "San Petersburgo",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        },
+        {
+          "name": "Kaliningrado",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        },
+        {
+          "name": "Samara",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        },
+        {
+          "name": "Ekaterimburgo",
+          "utc": "+05:00",
+          "chileanHour": "16:00"
+        },
+        {
+          "name": "Omsk",
+          "utc": "+06:00",
+          "chileanHour": "15:00"
+        },
+        {
+          "name": "Novosibirsk",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        },
+        {
+          "name": "Krasnoyarsk",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        },
+        {
+          "name": "Irkutsk",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        },
+        {
+          "name": "Yakutsk",
+          "utc": "+09:00",
+          "chileanHour": "12:00"
+        },
+        {
+          "name": "Vladivostok",
+          "utc": "+10:00",
+          "chileanHour": "11:00"
+        },
+        {
+          "name": "Magadán",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        },
+        {
+          "name": "Sajalín",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        },
+        {
+          "name": "Kamchatka",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        },
+        {
+          "name": "Anadyr",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        },
+        {
+          "name": "Chukotka",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Ruanda",
+      "twitch_code": "ruanda",
+      "code": "RW",
+      "cities": [
+        {
+          "name": "Kigali",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Rumania",
+      "twitch_code": "rumania",
+      "code": "RO",
+      "cities": [
+        {
+          "name": "Bucarest",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Samoa",
+      "twitch_code": "samoa",
+      "code": "WS",
+      "cities": [
+        {
+          "name": "Apia",
+          "utc": "+13:00",
+          "chileanHour": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "San Cristóbal y Nieves",
+      "twitch_code": "sancristobalynieves",
+      "code": "KN",
+      "cities": [
+        {
+          "name": "Basseterre",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "San Marino",
+      "twitch_code": "sanmarino",
+      "code": "SM",
+      "cities": [
+        {
+          "name": "San Marino",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Lucía",
+      "twitch_code": "santalucia",
+      "code": "LC",
+      "cities": [
+        {
+          "name": "Castries",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Santo Tomé y Príncipe",
+      "twitch_code": "santomeyprincipe",
+      "code": "ST",
+      "cities": [
+        {
+          "name": "Santo Tomé",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Salomón",
+      "twitch_code": "islassalomon",
+      "code": "SB",
+      "cities": [
+        {
+          "name": "Honiara",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "San Vicente y las Granadinas",
+      "twitch_code": "sanvicenteylasgranadinas",
+      "code": "VC",
+      "cities": [
+        {
+          "name": "Kingstown",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Senegal",
+      "twitch_code": "senegal",
+      "code": "SN",
+      "cities": [
+        {
+          "name": "Dakar",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Serbia",
+      "twitch_code": "serbia",
+      "code": "RS",
+      "cities": [
+        {
+          "name": "Belgrado",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Seychelles",
+      "twitch_code": "seychelles",
+      "code": "SC",
+      "cities": [
+        {
+          "name": "Victoria",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Leona",
+      "twitch_code": "sierraleona",
+      "code": "SL",
+      "cities": [
+        {
+          "name": "Freetown",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapur",
+      "twitch_code": "singapur",
+      "code": "SG",
+      "cities": [
+        {
+          "name": "Singapur",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Siria",
+      "twitch_code": "siria",
+      "code": "SY",
+      "cities": [
+        {
+          "name": "Damasco",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Somalia",
+      "twitch_code": "somalia",
+      "code": "SO",
+      "cities": [
+        {
+          "name": "Mogadiscio",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Sri Lanka",
+      "twitch_code": "srilanka",
+      "code": "LK",
+      "cities": [
+        {
+          "name": "Colombo",
+          "utc": "+05:30",
+          "chileanHour": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Suazilandia",
+      "twitch_code": "suazilandia",
+      "code": "SZ",
+      "cities": [
+        {
+          "name": "Mbabane",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Sudáfrica",
+      "twitch_code": "sudafrica",
+      "code": "ZA",
+      "cities": [
+        {
+          "name": "Pretoria",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        },
+        {
+          "name": "Bloemfontein",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        },
+        {
+          "name": "Ciudad del Cabo",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Sudán",
+      "twitch_code": "sudan",
+      "code": "SD",
+      "cities": [
+        {
+          "name": "Jartum",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Sudán del Sur",
+      "twitch_code": "sudandelsur",
+      "code": "SS",
+      "cities": [
+        {
+          "name": "Yuba",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Suecia",
+      "twitch_code": "suecia",
+      "code": "SE",
+      "cities": [
+        {
+          "name": "Estocolmo",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Suiza",
+      "twitch_code": "suiza",
+      "code": "CH",
+      "cities": [
+        {
+          "name": "Berna",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Surinam",
+      "twitch_code": "surinam",
+      "code": "SR",
+      "cities": [
+        {
+          "name": "Paramaribo",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "Tailandia",
+      "twitch_code": "tailandia",
+      "code": "TH",
+      "cities": [
+        {
+          "name": "Bangkok",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Tanzania",
+      "twitch_code": "tanzania",
+      "code": "TZ",
+      "cities": [
+        {
+          "name": "Dodoma",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Tayikistán",
+      "twitch_code": "tayikistan",
+      "code": "TJ",
+      "cities": [
+        {
+          "name": "Dusambé",
+          "utc": "+05:00",
+          "chileanHour": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Timor Oriental",
+      "twitch_code": "timororiental",
+      "code": "TL",
+      "cities": [
+        {
+          "name": "Dili",
+          "utc": "+09:00",
+          "chileanHour": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Togo",
+      "twitch_code": "togo",
+      "code": "TG",
+      "cities": [
+        {
+          "name": "Lomé",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Tonga",
+      "twitch_code": "tonga",
+      "code": "TO",
+      "cities": [
+        {
+          "name": "Nukualofa",
+          "utc": "+13:00",
+          "chileanHour": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "Trinidad y Tobago",
+      "twitch_code": "trinidadytobago",
+      "code": "TT",
+      "cities": [
+        {
+          "name": "Puerto España",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Túnez",
+      "twitch_code": "tunez",
+      "code": "TN",
+      "cities": [
+        {
+          "name": "Túnez",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Turkmenistán",
+      "twitch_code": "turkmenistan",
+      "code": "TM",
+      "cities": [
+        {
+          "name": "Asjabad",
+          "utc": "+05:00",
+          "chileanHour": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Turquía",
+      "twitch_code": "turquia",
+      "code": "TR",
+      "cities": [
+        {
+          "name": "Ankara",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Tuvalu",
+      "twitch_code": "tuvalu",
+      "code": "TV",
+      "cities": [
+        {
+          "name": "Funafuti",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Ucrania",
+      "twitch_code": "ucrania",
+      "code": "UA",
+      "cities": [
+        {
+          "name": "Kiev",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Uganda",
+      "twitch_code": "uganda",
+      "code": "UG",
+      "cities": [
+        {
+          "name": "Kampala",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "twitch_code": "uruguay",
+      "code": "UY",
+      "cities": [
+        {
+          "name": "Montevideo",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "Uzbekistán",
+      "twitch_code": "uzbekistan",
+      "code": "UZ",
+      "cities": [
+        {
+          "name": "Taskent",
+          "utc": "+05:00",
+          "chileanHour": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Vanuatu",
+      "twitch_code": "vanuatu",
+      "code": "VU",
+      "cities": [
+        {
+          "name": "Port Vila",
+          "utc": "+11:00",
+          "chileanHour": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Vaticano",
+      "twitch_code": "vaticano",
+      "code": "VA",
+      "cities": [
+        {
+          "name": "Ciudad del Vaticano",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Venezuela",
+      "twitch_code": "venezuela",
+      "code": "VE",
+      "cities": [
+        {
+          "name": "Caracas",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "twitch_code": "vietnam",
+      "code": "VN",
+      "cities": [
+        {
+          "name": "Hanói",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Yemen",
+      "twitch_code": "yemen",
+      "code": "YE",
+      "cities": [
+        {
+          "name": "Saná",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Yibuti",
+      "twitch_code": "yibuti",
+      "code": "DJ",
+      "cities": [
+        {
+          "name": "Yibuti",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Zambia",
+      "twitch_code": "zambia",
+      "code": "ZM",
+      "cities": [
+        {
+          "name": "Lusaka",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Zimbabue",
+      "twitch_code": "zimbabue",
+      "code": "ZW",
+      "cities": [
+        {
+          "name": "Harare",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Cook",
+      "twitch_code": "islascook",
+      "code": "CK",
+      "cities": [
+        {
+          "name": "Avarua",
+          "utc": "-10:00",
+          "chileanHour": "07:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Marshall",
+      "twitch_code": "islasmarshall",
+      "code": "MH",
+      "cities": [
+        {
+          "name": "Majuro",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Faroe",
+      "twitch_code": "islasfaroe",
+      "code": "FO",
+      "cities": [
+        {
+          "name": "Tórshavn",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Anguila",
+      "twitch_code": "anguila",
+      "code": "AI",
+      "cities": [
+        {
+          "name": "The Valley",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Aruba",
+      "twitch_code": "aruba",
+      "code": "AW",
+      "cities": [
+        {
+          "name": "Oranjestad",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Bermudas",
+      "twitch_code": "bermudas",
+      "code": "BM",
+      "cities": [
+        {
+          "name": "Hamilton",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Curazao",
+      "twitch_code": "curazao",
+      "code": "CW",
+      "cities": [
+        {
+          "name": "Willemstad",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Niue",
+      "twitch_code": "niue",
+      "code": "NU",
+      "cities": [
+        {
+          "name": "Alofi",
+          "utc": "-11:00",
+          "chileanHour": "06:00"
+        }
+      ]
+    },
+    {
+      "name": "Sint Maarten",
+      "twitch_code": "sintmaarten",
+      "code": "SX",
+      "cities": [
+        {
+          "name": "Philipsburg",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Kosovo",
+      "twitch_code": "kosovo",
+      "code": "XK",
+      "cities": [
+        {
+          "name": "Pristina",
+          "utc": "+01:00",
+          "chileanHour": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Sahara Occidental",
+      "twitch_code": "sahara-occidental",
+      "code": "EH",
+      "cities": [
+        {
+          "name": "El Aaiún",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Pitcairn",
+      "twitch_code": "islas-pitcairn",
+      "code": "PN",
+      "cities": [
+        {
+          "name": "Adamstown",
+          "utc": "-08:00",
+          "chileanHour": "05:00"
+        }
+      ]
+    },
+    {
+      "name": "Turks y Caicos",
+      "twitch_code": "turksycaicos",
+      "code": "TC",
+      "cities": [
+        {
+          "name": "Cockburn Town",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Saint Martin",
+      "twitch_code": "saintmartin",
+      "code": "MF",
+      "cities": [
+        {
+          "name": "Marigot",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Saint Pierre y Miquelon",
+      "twitch_code": "saintpierremiquelon",
+      "code": "PM",
+      "cities": [
+        {
+          "name": "Saint-Pierre",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "Guam",
+      "twitch_code": "guam",
+      "code": "GU",
+      "cities": [
+        {
+          "name": "Hagåtña",
+          "utc": "+10:00",
+          "chileanHour": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Marianas del Norte",
+      "twitch_code": "nortemarianas",
+      "code": "MP",
+      "cities": [
+        {
+          "name": "Saipan",
+          "utc": "+10:00",
+          "chileanHour": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Martinica",
+      "twitch_code": "martinica",
+      "code": "MQ",
+      "cities": [
+        {
+          "name": "Fort-de-France",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Montserrat",
+      "twitch_code": "montserrat",
+      "code": "MS",
+      "cities": [
+        {
+          "name": "Brades",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "San Bartolomé",
+      "twitch_code": "san-bartolome",
+      "code": "BL",
+      "cities": [
+        {
+          "name": "Gustavia",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Guadalupe",
+      "twitch_code": "guadalupe",
+      "code": "GP",
+      "cities": [
+        {
+          "name": "Basse-Terre",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Puerto Rico",
+      "twitch_code": "puertorico",
+      "code": "PR",
+      "cities": [
+        {
+          "name": "San Juan",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Reunión",
+      "twitch_code": "reunion",
+      "code": "RE",
+      "cities": [
+        {
+          "name": "Saint-Denis",
+          "utc": "+04:00",
+          "chileanHour": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Polinesia Francesa",
+      "twitch_code": "polinesiafrancesa",
+      "code": "PF",
+      "cities": [
+        {
+          "name": "Papeete",
+          "utc": "-10:00",
+          "chileanHour": "07:00"
+        },
+        {
+          "name": "Marquesas",
+          "utc": "-09:30",
+          "chileanHour": "06:30"
+        },
+        {
+          "name": "Gambier",
+          "utc": "-09:00",
+          "chileanHour": "6:00"
+        }
+      ]
+    },
+    {
+      "name": "Wallis y Futuna",
+      "twitch_code": "wallisyfutuna",
+      "code": "WF",
+      "cities": [
+        {
+          "name": "Mata-Utu",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Mayotte",
+      "twitch_code": "mayotte",
+      "code": "YT",
+      "cities": [
+        {
+          "name": "Mamoudzou",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "San Bartolomé",
+      "twitch_code": "sanbartolome",
+      "code": "BL",
+      "cities": [
+        {
+          "name": "Gustavia",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Tokelau",
+      "twitch_code": "tokelau",
+      "code": "TK",
+      "cities": [
+        {
+          "name": "Fakaofo",
+          "utc": "+13:00",
+          "chileanHour": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "Guernsey",
+      "twitch_code": "guernsey",
+      "code": "GG",
+      "cities": [
+        {
+          "name": "Saint Peter Port",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "twitch_code": "southgeorgia",
+      "code": "GS",
+      "cities": [
+        {
+          "name": "Grytviken",
+          "utc": "-02:00",
+          "chileanHour": "23:00"
+        }
+      ]
+    },
+    {
+      "name": "Jersey",
+      "twitch_code": "jersey",
+      "code": "JE",
+      "cities": [
+        {
+          "name": "Saint Helier",
+          "utc": "+00:00",
+          "chileanHour": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Malvinas",
+      "twitch_code": "malvinas",
+      "code": "FK",
+      "cities": [
+        {
+          "name": "Stanley",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Vírgenes Británicas",
+      "twitch_code": "britishvirginislands",
+      "code": "VG",
+      "cities": [
+        {
+          "name": "Road Town",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Islas Vírgenes de los Estados Unidos",
+      "twitch_code": "usvirginislands",
+      "code": "VI",
+      "cities": [
+        {
+          "name": "Charlotte Amalie",
+          "utc": "-04:00",
+          "chileanHour": "01:00"
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "twitch_code": "taiwan",
+      "code": "TW",
+      "cities": [
+        {
+          "name": "Taipéi",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Somalilandia",
+      "twitch_code": "somalilandia",
+      "code": "SO",
+      "cities": [
+        {
+          "name": "Hargeisa",
+          "utc": "+03:00",
+          "chileanHour": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Aland",
+      "twitch_code": "aland",
+      "code": "AX",
+      "cities": [
+        {
+          "name": "Mariehamn",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Macao",
+      "twitch_code": "macao",
+      "code": "MO",
+      "cities": [
+        {
+          "name": "Macao",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Antártica",
+      "twitch_code": "antartica",
+      "code": "AQ",
+      "cities": [
+        {
+          "name": "Estación McMurdo",
+          "utc": "+13:00",
+          "chileanHour": "08:00"
+        },
+        {
+          "name": "Estación Palmer",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        },
+        {
+          "name": "Estación Rothera",
+          "utc": "-03:00",
+          "chileanHour": "00:00"
+        },
+        {
+          "name": "Estación Troll",
+          "utc": "+02:00",
+          "chileanHour": "19:00"
+        },
+        {
+          "name": "Estación Casey",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        },
+        {
+          "name": "Estación Davis",
+          "utc": "+07:00",
+          "chileanHour": "14:00"
+        },
+        {
+          "name": "Estación Mawson",
+          "utc": "+05:00",
+          "chileanHour": "16:00"
+        },
+        {
+          "name": "Estación Scott",
+          "utc": "+12:00",
+          "chileanHour": "09:00"
+        },
+        {
+          "name": "Estación Vostok",
+          "utc": "+06:00",
+          "chileanHour": "15:00"
+        },
+        {
+          "name": "Estación Concordia",
+          "utc": "+08:00",
+          "chileanHour": "13:00"
+        },
+        {
+          "name": "Estación Amundsen-Scott",
+          "utc": "+13:00",
+          "chileanHour": "08:00"
+        },
+        {
+          "name": "Polo Sur",
+          "utc": "+13:00",
+          "chileanHour": "08:00"
+        }
+      ]
+    }
+  ]
+}
